@@ -1,0 +1,36 @@
+{
+  "Invoice": {
+    "Business": {
+      "Name": "Empresa",
+      "Street": "ubicación",
+      "geolocation": "Hermosillo, Sonora. 12345",
+      "Phone": "111-111-1111",
+      "Email": "info@info.com",
+      "Website": "www.website.com"
+    },
+    "Image": "logo.jpg",
+    "BillTo": {
+      "Name": "Client name",
+      "StreetAddress": "calle",
+      "geolocation": "Hermosillo, Sonora. 12344"
+    },
+    "ShipTo": {
+      "Name": "Client name",
+      "StreetAddress": "otra calle",
+      "geolocation": "Hermosillo, Sonora. 12344"
+    },
+    "InvoiceDetails": {
+      "Number": "1231234",
+      "Date": "12-12-2023",
+      "TermsofPayment": "Pagar hasta 15-12-2023",
+      "geolocation": "Hermosillo, Sonora. 12345"
+    },
+    "CustomerMessage": "Hello Thank you for purchase",
+    "Payment": {
+      "Subtotal": 0,
+      "SalesTax": 0,
+      "Shipping": 0,
+      "Total": 0
+    }
+  }
+}
